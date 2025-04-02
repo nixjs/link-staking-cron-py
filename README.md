@@ -1,5 +1,7 @@
 # LINK Staking Script
 
+> Script is not for low coders, this script directly affects the contract from your private key. Still recommended to use https://staking.chain.link/, https://stake.link/
+
 ## Project Description
 This project is a Python 3 script that automates staking LINK tokens into a Chainlink staking pool. It checks the pool's available space every 200 milliseconds and stakes the maximum possible amount of LINK from your wallet if space is available
 
